@@ -1,5 +1,6 @@
+import Navbar from '@/components/pages/Navbar'
 import { Button } from '@/components/ui/button'
-import { link } from 'fs'
+
 import React from 'react'
 
 export default function Home (){
@@ -7,7 +8,9 @@ export default function Home (){
 
   return (
     <div className='flex flex-col items-center justify-center min-h-screen py-2'>
+      <Navbar/>
       <Button className='cursor-pointer'>Click to Edit</Button>
+
     </div>
   )
 }
