@@ -10,6 +10,7 @@ const Navbar = () => {
   <AvatarFallback>CN</AvatarFallback>
 </Avatar>
         <ul>
+          <li>Home</li>
             <li>Navbar</li>
         </ul>
     </div>
