@@ -11,7 +11,7 @@ yarn run dev
  - components      
  - hooks 
  - lib 
- - prisma    #Schema of prisma
+ - prisma    #  Schema of prisma
  - public
 
 
