@@ -6,6 +6,15 @@ npm run dev
 yarn run dev
 ```
 
+## Folder Structure
+ - app
+ - components      
+ - hooks 
+ - lib 
+ - prisma    #Schema of prisma
+ - public
+
+
 ## Getting Started
 
 First, run the development server:
