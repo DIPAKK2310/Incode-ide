@@ -12,8 +12,7 @@ yarn run dev
  - hooks 
  - lib 
  - prisma    #  Schema of prisma
- - public
-
+ - public #Public files
 
 ## Getting Started
 
